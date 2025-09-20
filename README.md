@@ -2,7 +2,7 @@
 
 This project trains a Simulation Graph Network (SGN) model based on particle simulation data, specifically designed for predicting particle accelerations and global energy dissipation in a ball mill scenario.
 
-The code is structured into modules for better organization and maintainability.
+The code is structured into modules for better organization and maintainability. Some modules contain post-saving analysis that is not critical, but can aid experimentation. Make sure to modify/delete them if they are not needed or incompatible with your work. 
 
 ## File Structure
 
