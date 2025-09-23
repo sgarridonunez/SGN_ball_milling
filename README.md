@@ -1,5 +1,7 @@
 # Simulation Graph Network (SGN) Training
 
+https://github.com/user-attachments/assets/c852ee85-1240-4257-ae3f-a22e056b59f3
+
 This project trains a Simulation Graph Network (SGN) model based on particle simulation data, specifically designed for predicting particle accelerations and global energy dissipation in a ball mill scenario.
 
 The code is structured into modules for better organization and maintainability. Some modules contain post-saving analysis that is not critical, but can aid experimentation. Make sure to modify/delete them if they are not needed or incompatible with your work. 
@@ -154,3 +156,11 @@ During and after execution, the scripts generate the following files:
 *   `mse_plot_recursive_vectorized.png`: Plot showing MSE of positions and SDF over time.
 *   `energy_plot_direct_recursive_vectorized.png`: Plot comparing the direct cumulative sum of predicted vs. ground truth energy dissipation.
 *   `energy_plot_block_avg_recursive_vectorized.png`: Plot comparing the block-averaged cumulative sum of predicted vs. ground truth energy dissipation.
+
+
+### More demos! 
+
+https://github.com/user-attachments/assets/74fab633-ed4b-4c45-b49d-5a84945f3d5a
+
+
+https://github.com/user-attachments/assets/cb787a97-9e05-4239-92e2-cd1ea4baecfa
